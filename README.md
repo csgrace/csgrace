@@ -28,11 +28,10 @@ I'm Grace, an enthusiastic undergraduate exploring the fascinating world of comp
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence & IoT
-- Digital Circuit Design
+- Artificial Intelligence 
+- IoT
 - Full-stack Web Development (Java, Vue, JavaScript)
 - Signal Processing
-- Database Design and Optimization
 
 ---
 
@@ -43,13 +42,6 @@ I'm Grace, an enthusiastic undergraduate exploring the fascinating world of comp
 
 ---
 
-## 🤔 Looking for Help With
-
-- 
-- 
-- 
-
----
 
 
 ## 📫 How to Reach Me
@@ -66,5 +58,6 @@ I love blending technology and creativity—whether it's building circuits, codi
 
 ---
 
+<!--
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=csgrace&show_icons=true&theme=tokyonight)
-
+-->
