@@ -1,4 +1,4 @@
-# Hi there, I'm Grace! 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile!  
 I'm Grace, an enthusiastic undergraduate exploring the fascinating world of computer science and engineering. My journey is all about learning, building, and collaborating on projects that can make a difference.
