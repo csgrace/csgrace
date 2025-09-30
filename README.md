@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile!  
-I'm Grace, an enthusiastic undergraduate exploring the fascinating world of computer science and engineering. My journey is all about learning, building, and collaborating on projects that can make a difference.
+I'm Grace, an enthusiastic undergraduate exploring the fascinating world of computer science and engineering. 
 
 ---
 
@@ -31,17 +31,8 @@ I'm Grace, an enthusiastic undergraduate exploring the fascinating world of comp
 - Artificial Intelligence 
 - IoT
 - Full-stack Web Development (Java, Vue, JavaScript)
-- Signal Processing
 
 ---
-
-## 👯 Looking to Collaborate On
-
-- Open source projects in health tech, education, or hardware design
-- Interdisciplinary projects combining software and hardware
-
----
-
 
 
 ## 📫 How to Reach Me
@@ -51,12 +42,6 @@ I'm Grace, an enthusiastic undergraduate exploring the fascinating world of comp
 
 ---
 
-
-## ⚡ Fun Fact
-
-I love blending technology and creativity—whether it's building circuits, coding games, or exploring new innovations in smart health!
-
----
 
 <!--
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=csgrace&show_icons=true&theme=tokyonight)
