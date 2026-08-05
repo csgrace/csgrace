@@ -79,7 +79,7 @@ I lead both the **SUSTech Rowing Team** and the **Shuli College Table Tennis Tea
 
 ## 📫 How to Reach Me
 
-- **Email:** 12311043@mail.sustech.edu.cn / yuqingwei508@gmail.com  
+- **Email:** 12311043@mail.sustech.edu.cn
 - **GitHub:** [csgrace](https://github.com/csgrace)  
 
 ---
