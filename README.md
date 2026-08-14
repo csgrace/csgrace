@@ -11,8 +11,7 @@ I bridge the gap between AI capability and real-world reliability. My work spans
 - 🎓 B.E. in Computer Science & Technology @ **Southern University of Science and Technology (SUSTech)** — Aug. 2023 – Jul. 2027 (Expected)
 - 🏢 **Meituan** Intern — Agent Training Assistant (Jun. – Sep. 2026)
 - 🌍 Shenzhen, China
-- 📫 12311043@mail.sustech.edu.cn / yuqingwei508@gmail.com
-- 📱 (+86) 178-2066-0860
+- 📫 12311043@mail.sustech.edu.cn 
 
 ---
 
@@ -128,10 +127,8 @@ I bridge the gap between AI capability and real-world reliability. My work spans
 
 ## 📫 How to Reach Me
 
-- **Email:** 12311043@mail.sustech.edu.cn / yuqingwei508@gmail.com
+- **Email:** 12311043@mail.sustech.edu.cn 
 - **GitHub:** [csgrace](https://github.com/csgrace)
-- **Phone:** (+86) 178-2066-0860
-- **Location:** Shenzhen, China
 
 ---
 
